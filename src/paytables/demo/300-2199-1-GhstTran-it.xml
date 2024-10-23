@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="it">
+<phrase key="softwareId" value="ID Software"/>
+<phrase key="transactionId" value="ID Transazione"/>
+<phrase key="totalWins" value="Vincita totale"/>
+<phrase key="totalWager" value="Totale scommesse"/>
+<phrase key="wagerType" value="Tipo di scommessa"/>
+<phrase key="BUY" value="Acquista"/>
+<phrase key="TRY" value="Prova"/>
+<phrase key="mainGame" value="Partita principale"/>
+<phrase key="turn" value="Turno"/>
+<phrase key="mainSymbol" value="Simbolo principale"/>
+<phrase key="secondSymbol" value="Secondo simbolo"/>
+<phrase key="outcome" value="Risultato"/>
+<phrase key="prize" value="Premio"/>
+<phrase key="mainSymbY" value="Simbolo della raccolta"/>
+<phrase key="mainSymbN" value="Simbolo non della raccolta"/>
+<phrase key="mainSymb1" value="Simbolo Bonus 1"/>
+<phrase key="mainSymb2" value="Simbolo Bonus 2"/>
+<phrase key="mainSymb3" value="Simbolo Bonus 3"/>
+<phrase key="mainSymb4" value="Simbolo Bonus 4"/>
+<phrase key="mainSymb5" value="Simbolo Moltiplicatore 1"/>
+<phrase key="mainSymb6" value="Simbolo Moltiplicatore 2"/>
+<phrase key="mainSymb7" value="Simbolo Moltiplicatore 3"/>
+<phrase key="mainSymb8" value="Simbolo Moltiplicatore 4"/>
+<phrase key="matched" value="Abbinati"/>
+<phrase key="bonusGame" value="Partita Bonus"/>
+<phrase key="multiGame" value="Partita Moltiplicatrice"/>
+<phrase key="bonusSymbol" value="Simbolo Bonus"/>
+<phrase key="bonusPrize" value="Premio Bonus"/>
+<phrase key="multipliedBy" value="Vincite moltiplicate per"/>
+</translation>

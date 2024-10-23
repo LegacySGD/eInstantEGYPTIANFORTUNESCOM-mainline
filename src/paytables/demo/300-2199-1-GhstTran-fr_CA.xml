@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_CA">
+<phrase key="softwareId" value="ID de logiciel"/>
+<phrase key="transactionId" value="ID de transaction"/>
+<phrase key="totalWins" value="Gains totaux"/>
+<phrase key="totalWager" value="Mise totale"/>
+<phrase key="wagerType" value="Type de mise"/>
+<phrase key="BUY" value="Acheter"/>
+<phrase key="TRY" value="Essayer"/>
+<phrase key="mainGame" value="Jeu principal"/>
+<phrase key="turn" value="Tourner"/>
+<phrase key="mainSymbol" value="Symbole principal"/>
+<phrase key="secondSymbol" value="Deuxième symbole"/>
+<phrase key="outcome" value="Résultat"/>
+<phrase key="prize" value="Lot"/>
+<phrase key="mainSymbY" value="Symbole faisant partie de la collection"/>
+<phrase key="mainSymbN" value="Symbole ne faisant pas partie de la collection"/>
+<phrase key="mainSymb1" value="Symbole boni 1"/>
+<phrase key="mainSymb2" value="Symbole boni 2"/>
+<phrase key="mainSymb3" value="Symbole boni 3"/>
+<phrase key="mainSymb4" value="Symbole boni 4"/>
+<phrase key="mainSymb5" value="Symbole multiplicateur 1"/>
+<phrase key="mainSymb6" value="Symbole multiplicateur 2"/>
+<phrase key="mainSymb7" value="Symbole multiplicateur 3"/>
+<phrase key="mainSymb8" value="Symbole multiplicateur 4"/>
+<phrase key="matched" value="Identiques"/>
+<phrase key="bonusGame" value="Jeu boni"/>
+<phrase key="multiGame" value="Jeu multiplicateur"/>
+<phrase key="bonusSymbol" value="Symbole boni"/>
+<phrase key="bonusPrize" value="Lot boni"/>
+<phrase key="multipliedBy" value="Gains multipliés par"/>
+</translation>

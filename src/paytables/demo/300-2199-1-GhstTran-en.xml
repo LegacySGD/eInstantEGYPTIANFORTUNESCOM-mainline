@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="wagerType" value="Wager Type"/>
+<phrase key="BUY" value="Buy"/>
+<phrase key="TRY" value="Try"/>
+<phrase key="mainGame" value="Main Game"/>
+<phrase key="turn" value="Turn"/>
+<phrase key="mainSymbol" value="Main Symbol"/>
+<phrase key="secondSymbol" value="Sub-symbol"/>
+<phrase key="outcome" value="Outcome"/>
+<phrase key="prize" value="Prize"/>
+<phrase key="mainSymbY" value="Cartouche"/>
+<phrase key="mainSymbN" value="Scarab"/>
+<phrase key="mainSymb1" value="Sceptre"/>
+<phrase key="mainSymb2" value="Sceptre"/>
+<phrase key="mainSymb3" value="Sceptre"/>
+<phrase key="mainSymb4" value="Sceptre"/>
+<phrase key="mainSymb5" value="Eye"/>
+<phrase key="mainSymb6" value="Eye"/>
+<phrase key="mainSymb7" value="Eye"/>
+<phrase key="mainSymb8" value="Eye"/>
+<phrase key="matched" value="Matched"/>
+<phrase key="bonusGame" value="Glyph Bonus"/>
+<phrase key="multiGame" value="Talisman Bonus"/>
+<phrase key="bonusSymbol" value="Bonus Symbol"/>
+<phrase key="bonusPrize" value="Bonus Prize"/>
+<phrase key="multipliedBy" value="Wins multiplied by"/>
+</translation>

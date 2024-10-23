@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Programvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Total vinst"/>
+<phrase key="totalWager" value="Total insats"/>
+<phrase key="wagerType" value="Insatstyp"/>
+<phrase key="BUY" value="Köp"/>
+<phrase key="TRY" value="Försök"/>
+<phrase key="mainGame" value="Huvudspel"/>
+<phrase key="turn" value="Tur"/>
+<phrase key="mainSymbol" value="Huvudsymbol"/>
+<phrase key="secondSymbol" value="Andra symbolen"/>
+<phrase key="outcome" value="Utfall"/>
+<phrase key="prize" value="Pris"/>
+<phrase key="mainSymbY" value="Insamlingssymbol"/>
+<phrase key="mainSymbN" value="Annan symbol än insamlingssymbolen"/>
+<phrase key="mainSymb1" value="Bonussymbol 1"/>
+<phrase key="mainSymb2" value="Bonussymbol 2"/>
+<phrase key="mainSymb3" value="Bonussymbol 3"/>
+<phrase key="mainSymb4" value="Bonussymbol 4"/>
+<phrase key="mainSymb5" value="Multiplikatorsymbol 1"/>
+<phrase key="mainSymb6" value="Multiplikatorsymbol 2"/>
+<phrase key="mainSymb7" value="Multiplikatorsymbol 3"/>
+<phrase key="mainSymb8" value="Multiplikatorsymbol 4"/>
+<phrase key="matched" value="Matchade"/>
+<phrase key="bonusGame" value="Bonusspel"/>
+<phrase key="multiGame" value="Multiplikatorspel"/>
+<phrase key="bonusSymbol" value="Bonussymbol"/>
+<phrase key="bonusPrize" value="Bonuspris"/>
+<phrase key="multipliedBy" value="Vinster multipliceras med"/>
+</translation>
